@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/badbank-app/static/js/main.e0fc8725.js",
+    "static/media/no-money-travolta.gif": "/badbank-app/static/media/no-money-travolta.9334c7de9f4a625716e3.gif",
+    "static/media/logo-chanchito.png": "/badbank-app/static/media/logo-chanchito.39f0887822f773ca8792.png",
+    "static/media/retiro-chanchito.png": "/badbank-app/static/media/retiro-chanchito.9dec12509b9932c5ccfc.png",
+    "static/media/deposit-icon.png": "/badbank-app/static/media/deposit-icon.a7f1b7e6aa85e7ddfb50.png",
+    "index.html": "/badbank-app/index.html",
+    "main.e0fc8725.js.map": "/badbank-app/static/js/main.e0fc8725.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e0fc8725.js"
+  ]
+}
